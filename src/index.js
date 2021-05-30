@@ -1,10 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
-import 'antd/dist/antd.css'
 //
 import App from './App'
-import './index.css'
+import './index.less'
 
 ReactDOM.render(
   <BrowserRouter>
